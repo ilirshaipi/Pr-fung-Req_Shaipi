@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prüfung Req_Shaipi", "Prüfung Req_Shaipi\Prüfung Req_Shaipi.csproj", "{AFF36404-E2D8-4DC4-BFE4-634C3D528EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF36404-E2D8-4DC4-BFE4-634C3D528EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF36404-E2D8-4DC4-BFE4-634C3D528EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF36404-E2D8-4DC4-BFE4-634C3D528EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF36404-E2D8-4DC4-BFE4-634C3D528EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84ABD8E-D60A-4466-94EE-A710E4632B5F}
+	EndGlobalSection
+EndGlobal
